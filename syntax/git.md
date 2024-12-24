@@ -3,7 +3,6 @@
 - when creating github repo the information provided will give more details about how to setup
 
 ## git remote
---- 
 
 ```bash
     
