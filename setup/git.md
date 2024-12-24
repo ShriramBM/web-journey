@@ -1,6 +1,6 @@
 # git setup
----
-### git setup on linux
+
+## git setup on linux
 ---
 
 - setup using ssh 
